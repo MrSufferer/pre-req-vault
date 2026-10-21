@@ -8,3 +8,6 @@ pub const HELLO_WORLD_LAMPORTS: u64 = 1;
 
 #[constant]
 pub const MAX_COUNT: u64 = 10;
+
+#[constant]
+pub const GITHUB_USERNAME: &str = "MrSufferer";
